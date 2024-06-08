@@ -20,7 +20,6 @@ const DetailPageView = ({ model }) => {
             >
               <div>
                 <h3>{info.icon}</h3>
-
                 <h3 className="my-3">{info.label}</h3>
                 <p>{millify(Number(info.value))}</p>
               </div>
