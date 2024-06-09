@@ -31,4 +31,4 @@ CoinMania offers the following features:
 
 ### Project gif
 
-<img src"./screen1.gif"/>
+<img src="./screen1.gif"/>
